@@ -140,7 +140,7 @@ public class Login {
 	  String B="08";
 	  Robot robot=new Robot();
       while (true) {
-
+System.out.println("Some code has been updated");
     	  
     	 /* WebElement updatedOrg = driver.findElement(By.id("org_color"));
           String currentRGB = updatedOrg.getCssValue("#ddcc08");
